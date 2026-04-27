@@ -3,7 +3,7 @@
 # Score Studio
 
 ### 💻 Веб-разработчик | ☕ Java-разработчик | 🎬 Контент-мейкер
-
+ 
 <br/>
 
 [![Сайт](https://img.shields.io/badge/🌐_Сайт-scorestudio.alwaysdata.net-1a7a4a?style=for-the-badge)](https://scorestudio.alwaysdata.net)
