@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Логотип -->
-<img src="https://raw.githubusercontent.com/bekojon/bekojon/main/logo.png" width="200" alt="Score Studio Logo"/>
+<img src="https://github.com/ScoreStudioUz/ScoreStudio/blob/main/logo.png" width="200" alt="Score Studio Logo"/>
 
 # 🖥️ Score Studio
 
