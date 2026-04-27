@@ -1,6 +1,5 @@
 <div align="center">
- 
-# Score Studio
+ # Score Studio
 
 ### 💻 Веб-разработчик | ☕ Java-разработчик | 🎬 Контент-мейкер
  
