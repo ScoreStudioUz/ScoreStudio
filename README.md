@@ -1,81 +1,82 @@
 <div align="center">
 
-<!-- Логотип -->
-<img src="https://github.com/ScoreStudioUz/ScoreStudio/blob/main/logo.png" width="200" alt="Score Studio Logo"/>
+<img src="logo.png" width="220" alt="Score Studio Logo"/>
 
-# 🖥️ Score Studio
+<br/>
 
-### 🎬 Контент-мейкер | 💻 Веб-разработчик | 🎨 Дизайнер
+# Score Studio
 
-<p align="center">
-  <a href="https://bekojon.vercel.app">
-    <img src="https://img.shields.io/badge/🌐 Портфолио-Посетить-1a7a4a?style=for-the-badge" />
-  </a>
-  <a href="https://instagram.com/_alisherov_bekzod_">
-    <img src="https://img.shields.io/badge/📩 Связаться-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/@bekojonuz">
-    <img src="https://img.shields.io/badge/▶ YouTube-BekojonUZ-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+### 💻 Веб-разработчик | ☕ Java-разработчик | 🎨 Дизайнер | 🎬 Контент-мейкер
 
----
+<br/>
 
-## 🧠 Обо мне
-
-🎨 Я — **Профессиональный Дизайнер и Веб-разработчик** с более чем **4+ годами практического опыта** в создании высокоэффективных цифровых визуалов и современных веб-решений.
-
-🖌️ Моя главная экспертиза — **дизайн превью для YouTube и персональный брендинг**, где я сочетаю:
-
-```
-🎯 Креативность
-🧠 Психологию аудитории  
-🎬 Визуальный сторителлинг
-```
-
-чтобы создавать яркие дизайны, которые повышают вовлечённость и конверсию.
-
-💻 Параллельно с дизайном я активно разрабатываю **современные веб-приложения**, уделяя особое внимание:
-
-- ⚡ Чистой и масштабируемой архитектуре
-- 🚀 Высокой производительности
-- 🎯 Ориентированному на пользователя опыту
-- 🧩 Простым, но мощным UI/UX системам
-
-Я не просто пишу код — я создаю **полноценные цифровые продукты**, которые функциональны, быстры и визуально отточены.
-
-🎮 Также являюсь **Гейм Контент-мейкером**, публикую увлекательные видео на YouTube-канале:
-👉 **youtube.com/@BekojonUZ**
+[![Сайт](https://img.shields.io/badge/🌐_Сайт-scorestudio.alwaysdata.net-1a7a4a?style=for-the-badge)](https://scorestudio.alwaysdata.net)
+[![Telegram](https://img.shields.io/badge/✈️_Telegram_Канал-@ScoreStudioUz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ScoreStudioUz)
+[![YouTube](https://img.shields.io/badge/▶_YouTube-@BekojonUZ-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@BekojonUZ)
+[![Instagram](https://img.shields.io/badge/📷_Instagram-@_alisherov__bekzod_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_alisherov_bekzod_)
 
 </div>
 
 ---
 
-## 💡 Ключевые сильные стороны
+## 🧠 Обо мне
 
-🔥 Продвинутый дизайн превью и брендинг для YouTube  
-💻 Полный цикл веб-разработки (идея → деплой)  
-🎨 Сильное чувство UI/UX и визуальной композиции  
-⚡ Быстрое выполнение с высоким вниманием к деталям  
-📊 Нацеленность на постоянный рост и развитие  
+👋 Привет! Я — разработчик и дизайнер из **Узбекистана**.
+
+💻 Занимаюсь **веб-разработкой** и **Java-разработкой** — создаю современные сайты, веб-приложения и Telegram-боты.
+
+🎨 Параллельно делаю **дизайн** — превью для YouTube, брендинг, UI/UX.
+
+🎬 Веду **YouTube-канал** с геймплей и tech-контентом.
+
+🤖 Разрабатываю **Telegram-боты** для автоматизации и бизнеса.
+
+---
+
+## 💡 Что я умею
+
+🔥 Веб-разработка — от идеи до деплоя  
+☕ Java-разработка — приложения и бэкенд  
+🤖 Telegram-боты — любой сложности  
+🎨 Дизайн превью, брендинг и UI/UX  
+⚡ Быстро, качественно, с вниманием к деталям  
 
 ---
 
 ## 🛠️ Технологии
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,kotlin" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,kotlin" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,pr,ae,vscode" />
+  <img src="https://skillicons.dev/icons?i=ps,pr,ae,vscode,idea" />
 </p>
+
+---
+
+## 🤖 Мои Telegram-боты
+
+| Бот | Описание |
+|-----|----------|
+| 🔜 Скоро | В разработке... |
+
+> 📩 Нужен Telegram-бот? Напишите мне — сделаю под ваши задачи!
 
 ---
 
 ## 🌐 Социальные сети
 
 <p align="center">
+  <a href="https://t.me/ScoreStudioUz">
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" title="Telegram Канал"/>
+  </a>
+  <a href="https://youtube.com/@bekojonuz">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" title="YouTube"/>
+  </a>
+  <a href="https://scorestudio.alwaysdata.net">
+    <img src="https://img.icons8.com/color/48/domain--v1.png" title="Сайт"/>
+  </a>
   <a href="https://instagram.com/_alisherov_bekzod_">
     <img src="https://img.icons8.com/color/48/instagram-new.png" title="Instagram"/>
   </a>
@@ -85,39 +86,21 @@
   <a href="https://x.com/bekojon1">
     <img src="https://img.icons8.com/color/48/twitter--v1.png" title="Twitter / X"/>
   </a>
-  <a href="https://youtube.com/@bekojonuz">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" title="YouTube"/>
-  </a>
 </p>
 
 ---
 
-## 📊 GitHub Статистика
+## 📩 Сотрудничество
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bekojon&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=bekojon&theme=tokyonight&hide_border=true&locale=ru" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekojon&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📩 Давайте работать вместе
-
-🔥 Нужны качественные превью для YouTube?  
-🚀 Хотите современный веб-сайт?  
-🎯 Нужен сильный брендинг?  
+🔥 Нужен сайт или веб-приложение?  
+🤖 Хотите Telegram-бота?  
+🎨 Нужен дизайн или брендинг?  
 
 <div align="center">
 
-**👉 Напишите мне — создадим что-то мощное вместе.**
+**👉 Пишите — сделаем вместе что-то крутое!**
 
-<a href="https://instagram.com/_alisherov_bekzod_">
-  <img src="https://img.shields.io/badge/Написать в Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+[![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ScoreStudioUz)
 
 </div>
 
