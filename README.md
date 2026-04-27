@@ -58,9 +58,3 @@
     <img src="https://img.icons8.com/color/48/domain--v1.png" title="Сайт"/>
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bekojon&color=1a7a4a&style=flat-square&label=Просмотры+профиля" />
-</div>
